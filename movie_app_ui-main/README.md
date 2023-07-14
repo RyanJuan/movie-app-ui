@@ -3,6 +3,7 @@
 1. Jalankan aplikasi Backend bisa dilihat pada repo 'https://github.com/RyanJuan/movie-app-api`
 
 2. NodeJs versi 16
+   
 
 # Menjalankan Aplikasi
 
